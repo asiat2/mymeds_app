@@ -1,17 +1,54 @@
-# mymeds_app
+###MyMeds 💊
 
-A new Flutter project.
+MyMeds is a modern Flutter-based medication reminder and tracking application designed to help users stay consistent with their medications and daily health routines.
 
-## Getting Started
+The application provides an easy-to-use and visually clean interface for managing medications, tracking medication status, and organizing schedules throughout the day.
 
-This project is a starting point for a Flutter application.
+###Features ✨
+Add medications and dosage information
+Schedule medications by time
+Organize medications into:
+Morning
+Noon
+Afternoon
+Evening
+Night
+Mark medications as:
+Taken
+Missed
+Medication history tracking
+Personalized profile support
+Modern and responsive UI
+Lightweight and simple navigation
+Built with Flutter for cross-platform support
 
-A few resources to get you started if this is your first Flutter project:
+###Screens Included 📱
+Home Dashboard
+Medication Management
+Medication History
+User Profile
+Technologies Used 🛠️
+Flutter
+Dart
+Material Design
+SharedPreferences (local storage)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+###App Purpose ❤️
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+MyMeds was created to help users:
+
+stay organized
+improve medication adherence
+reduce missed medications
+maintain healthy routines
+
+The app focuses on simplicity, accessibility, and a smooth user experience.
+
+###Author 👨‍💻
+
+Developed by Ashiat Adeogun
+
+
+###License 📄
+
+This project is for educational and portfolio purposes.
