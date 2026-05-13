@@ -1,4 +1,4 @@
-#### MyMeds 💊
+## MyMeds 💊
 
 MyMeds is a modern Flutter-based medication reminder and tracking application designed to help users stay consistent with their medications and daily health routines.
 
